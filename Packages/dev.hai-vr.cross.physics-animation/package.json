@@ -1,0 +1,14 @@
+{
+    "name": "dev.hai-vr.cross.physics-animation",
+    "displayName": "HVR Physics Animation",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "",
+    "author": "Haï~",
+    "vpmDependencies": {
+    },
+    "url": "https://docs.hai-vr.dev/docs/hvr/physics-animation",
+    "documentationUrl": "https://docs.hai-vr.dev/docs/hvr/physics-animation",
+    "changelogUrl": "https://docs.hai-vr.dev/docs/hvr/physics-animation",
+    "license": "Apache-2.0"
+}

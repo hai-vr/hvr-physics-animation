@@ -1,0 +1,23 @@
+{
+    "name": "HVR.PhysicsAnimation.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Burst"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.singularitygroup.hotreload",
+            "expression": "1.13.11",
+            "define": "HVR_PHYSICS_ANIMATION_HAS_HOT_RELOAD"
+        }
+    ],
+    "noEngineReferences": false
+}
